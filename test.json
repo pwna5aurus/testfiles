@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "<img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg'",
+    "description": "<img src='http://stuff.asda/sdasd' onerror='alert(9)'>",
     "version": "1.0.0",
     "title": "Swagger Petstore",
     "termsOfService": "javascript:alert(9)",
