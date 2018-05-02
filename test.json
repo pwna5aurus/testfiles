@@ -1,16 +1,16 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "This is a sample server Petstore server.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+    "description": "<img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg'",
     "version": "1.0.0",
     "title": "Swagger Petstore",
     "termsOfService": "javascript:alert(9)",
     "contact": {
-      "email": "apiteam@swagger.io"
+      "email": "stuff@things.com"
     },
     "license": {
       "name": "<script>alert(666)</script>",
-      "url": "javascript:alert(11)"
+      "url": "file:///10.0.0.1/test"
     }
 },
   "host": "petstore.swagger.io",
