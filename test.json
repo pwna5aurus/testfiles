@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "<img src='http://stuff.asda/sdasd' onerror='alert(9)'>",
+    "description": "<img src='http://stuff.asda/sdas' onerror='alert(9)'>",
     "version": "1.0.0",
     "title": "Swagger Petstore",
     "termsOfService": "javascript:alert(9)",
